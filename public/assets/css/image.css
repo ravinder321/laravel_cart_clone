@@ -1,0 +1,5 @@
+.image-class {
+    width: 200px; /* Set the desired width */
+    height: 300px; /* Set the desired height */
+    object-fit: cover; /* Ensures the image fits within the dimensions without distortion */
+}
